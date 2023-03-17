@@ -1,4 +1,4 @@
-## Fitness Tracker: A Usage Trends Analysis
+## US Road Accidents Analysis
 
 ### Goal
 Analyze the effect of rainfall, windspeed, and visibility on the overall severity of the accident
